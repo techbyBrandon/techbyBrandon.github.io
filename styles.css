@@ -35,6 +35,6 @@ header{
     background-image: url("images/HeaderBeach Dog.jpg");
     text-align: center;
     background-size:cover;
-    background-position: center;
+    background-position: top;
     color:white;
 }
